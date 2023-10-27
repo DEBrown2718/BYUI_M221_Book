@@ -1,10 +1,6 @@
 ---
 title: "Lesson 4: Describing Quantitative Data (Spread)"
-output:
-  html_document:
-    theme: cerulean
-    toc: true
-    toc_float: false
+output: pdf_document
 ---
 
 <script type="text/javascript">
@@ -117,7 +113,7 @@ We can, however, use numerical summaries to give an indication of the center of 
 
 We will use these data to investigate some measures of the spread in a data set.
 
-There is relatively little difference in the temperatures of the uncomplicated patients. The lowest is $38.1 ^\circ \text{C}$, while the highest temperature is $39.7 ^\circ \text{C}$. <!--This is a 2.88 degree F difference, which is medically quite significant. -->
+~~There is relatively little difference in the temperatures of the uncomplicated patients.~~ <span style="color:blue">The range of the temperatures of the uncomplicated patients may seem small, but it's kind of large:</span> The lowest is $38.1 ^\circ \text{C}$, while the highest temperature is $39.7 ^\circ \text{C}$. <span style="color:green">This is a 2.88 degree F difference, which can be medically significant.</span>
 
 The **standard deviation** is a measure of the *spread* in the distribution. If the data tend to be close together, then the standard deviation is relatively small. If the data tend to be more spread out, then the standard deviation is relatively large.
 

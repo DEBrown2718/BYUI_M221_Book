@@ -1,6 +1,6 @@
 ---
 title: "Lesson 2: The Statistical Process & Design of Studies"
-output:
+output: 
   html_document:
     theme: cerulean
     toc: true

@@ -49,7 +49,7 @@ output:
 </div><div style="clear:both;"></div>
 
 
-## Lesson Outcomes
+# Lesson Outcomes
 
 By the end of this lesson, you should be able to:
 

@@ -1,7 +1,7 @@
 ---
 title: 'Lesson 1: (On Campus) Course Intro & Probability'
 output:
-  html_document:
+    html_document:
     theme: cerulean
     toc: true
     toc_float: false
